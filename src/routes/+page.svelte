@@ -7,7 +7,7 @@
 	}, 950);
 	$effect(() => {
 		if (count === 1) {
-			// window.location.href = 'https://getwronged.com';
+			window.location.href = 'https://getwronged.com';
 		}
 	});
 </script>
